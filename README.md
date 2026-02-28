@@ -96,23 +96,3 @@ When it came to naming the business, "Sometimes Coco" captures the full range of
 If you find this website is useful, you can show your thanks by sending any amount of funds via Paypal.me or vinmo:
 https://paypal.me/fmacleon?country.x=US&locale.x=en_US
 
-# 
-# COPYRIGHT NOTICE:
-```
-#######################################################################################################
-##  Copyright Frank MacLeon Consulting Services LLC  
-##  Obtain permission for one-time download and implementation
-##  Permission is typically granted at registered, in-person demonstrations and trainings.
-##  Permission may also be granted via an email request to fmacleon@yahoo.com
-##  THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
-##  INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
-##  PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR 
-##  COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
-##  WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR 
-##  IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-##  No re-distribution permitted. No warrantee expressed or implied. Use at your own risk. 
-#######################################################################################################
-```
-## Help the developer:
-If you find this website is useful, you can show your thanks by sending any amount of funds via Paypal.me or vinmo:
-https://paypal.me/fmacleon?country.x=US&locale.x=en_US
